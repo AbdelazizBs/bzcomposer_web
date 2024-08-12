@@ -2,8 +2,6 @@ package com.avibha.bizcomposer.home;
 
 import com.avibha.bizcomposer.login.dao.LoginDAOImpl;
 import com.avibha.bizcomposer.login.forms.LoginForm;
-import com.avibha.common.utility.MyUtility;
-import com.avibha.common.utility.Path;
 import org.springframework.context.i18n.LocaleContextHolder;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
